@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="is arrange" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-16T07:55:43" hostname="DESKTOP-T4CQFQQ" time="0.017">
+  <properties/>
+  <testcase name="arrange cart items by price (high-low)" classname="cart.CartSpec$IsArrange" time="0.003"/>
+  <testcase name="arrange cart items in an inserted order" classname="cart.CartSpec$IsArrange" time="0.003"/>
+  <testcase name="arrange cart items by price (low-high)" classname="cart.CartSpec$IsArrange" time="0.005"/>
+  <system-out><![CDATA[<= Cart from DB Deleted =>
+<= Cart from DB Deleted =>
+<= Cart from DB Deleted =>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

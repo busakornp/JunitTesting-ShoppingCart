@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="search" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-16T07:55:43" hostname="DESKTOP-T4CQFQQ" time="0.131">
+  <properties/>
+  <testcase name="should find product that contains the following letter" classname="cart.CartSpec$cartSearch" time="0.131"/>
+  <system-out><![CDATA[<= Cart from DB Deleted =>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

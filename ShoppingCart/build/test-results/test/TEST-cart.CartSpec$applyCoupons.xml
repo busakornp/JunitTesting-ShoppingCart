@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="apply coupon" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-16T07:55:43" hostname="DESKTOP-T4CQFQQ" time="0.015">
+  <properties/>
+  <testcase name="no coupon apply to cart" classname="cart.CartSpec$applyCoupons" time="0.008"/>
+  <testcase name="apply 10à¸¿ discount coupon to cart" classname="cart.CartSpec$applyCoupons" time="0.002"/>
+  <system-out><![CDATA[<= Cart from DB Deleted =>
+<= Cart from DB Deleted =>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

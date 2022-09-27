@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="add products" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-16T07:55:43" hostname="DESKTOP-T4CQFQQ" time="0.009">
+  <properties/>
+  <testcase name="add single product to cart" classname="cart.CartSpec$AddProducts" time="0.003"/>
+  <testcase name="add multiple products to cart" classname="cart.CartSpec$AddProducts" time="0.002"/>
+  <system-out><![CDATA[<= Cart from DB Deleted =>
+<= Cart from DB Deleted =>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

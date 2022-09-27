@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="is empty" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-16T07:55:43" hostname="DESKTOP-T4CQFQQ" time="0.007">
+  <properties/>
+  <testcase name="create an empty cart with product count = 0" classname="cart.CartSpec$IsEmpty" time="0.007"/>
+  <system-out><![CDATA[<= Cart from DB Deleted =>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
